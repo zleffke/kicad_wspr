@@ -1,2 +1,2 @@
 # kicad_wspr
-KiCAD design for WSPR Transmitter
+KiCAD designs for WSPR Transmitters
