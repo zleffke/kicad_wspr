@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kicad_KJ4QLP)(type Legacy)(uri /home/zleffke/github/zleffke/kicad/kicad_libraries/kicad_KJ4QLP.lib)(options "")(descr ""))
+  (lib (name wspr_tx)(type Legacy)(uri /home/zleffke/github/zleffke/kicad/kicad_wspr/wspr_tx_v1/wspr_tx.lib)(options "")(descr ""))
+)
