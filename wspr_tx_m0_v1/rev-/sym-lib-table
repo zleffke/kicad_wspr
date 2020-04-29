@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name wspr_tx)(type Legacy)(uri /home/zleffke/github/zleffke/kicad/kicad_wspr/libraries/wspr_tx.lib)(options "")(descr ""))
+)
