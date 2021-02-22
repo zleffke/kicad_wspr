@@ -1,4 +1,4 @@
-update=Thu 14 May 2020 01:15:42 AM EDT
+update=Thu 14 May 2020 01:20:20 AM EDT
 version=1
 last_client=kicad
 [general]
@@ -266,7 +266,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=/home/zleffke/github/zleffke/kicad/kicad_wspr/si5351_featherwing_v1/rev-/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
